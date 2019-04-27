@@ -11,7 +11,7 @@
 
 ## 抽選方法
 
-抽選用プログラムを使用して抽選する。以下を抽選発表時に行う。
+[抽選用プログラム](https://github.com/vulpes-lab/vulpes-lab.github.io/blob/master/stream/present_1st/result.py) を使用して抽選する。以下を抽選発表時に行う。
 
 - 参加者（サポーター）を確定
 - シード値を決定
@@ -22,3 +22,7 @@
 - @si_ta_t
 - @Ru_u_tya
 - @tanaka5656hoo
+
+## リンク
+
+- [vulpes-lab GitHub](https://github.com/vulpes-lab/vulpes-lab.github.io)

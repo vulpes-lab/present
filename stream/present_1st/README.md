@@ -17,6 +17,31 @@
 - シード値を決定
 - 結果の発表
 
+### 参加者
+
+- @c:kyoka_0128
+- @nac335
+- @c:CapMuffin
+- @limeh12
+- @miyachanss
+- @oxk_i6halcyon
+- @tarte_tatin_227
+- @si_ta_t
+- @ZhW3BH6iC9LKLLr
+- @tanaka5656hoo
+- @GReen_APP5
+- @rufu101010
+- @Lta4Oep4Qg5JAdz
+- @Ru_u_tya
+- @rrr_f20
+- @iku30523
+
+計: 16人
+
+### シード値
+
+- 吉田くん
+
 ## 結果発表（当選者）
 
 - @si_ta_t
